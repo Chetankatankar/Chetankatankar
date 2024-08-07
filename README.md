@@ -8,11 +8,11 @@ I'm CHETAN KATANKAR, a passionate coder from Pune, Maharashtra.
  • I love to code!
 
  ## 🔧 Technologies & Tools
-•	Programming Languages: C++, Python
+•	Programming Languages: Python, SQL
 
 •	Web Development: HTML, CSS
 
-•	Database: SQL
+•	Database: SQL, RDBMS
 
 ## 📂 Projects
  [ ]
@@ -25,6 +25,7 @@ I'm CHETAN KATANKAR, a passionate coder from Pune, Maharashtra.
 ## 📫 Get in Touch
 
 •	LinkedIn:https://www.linkedin.com/in/chetan-katankar-219a88264/
+
 •	Email:[chetankatankar4@gmail.com]
 
 ## 😄 Fun Facts
