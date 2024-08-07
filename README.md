@@ -3,7 +3,7 @@ I'm CHETAN KATANKAR, a passionate coder from Pune, Maharashtra.
 
 ##  🚀 About Me
 
-•	 🔭 I’m a Graduate Student at [Nagpur University
+•	 🔭 I’m a Graduate Student at [Nagpur University]
 
  • I love to code!
 
