@@ -1,5 +1,5 @@
 - ## 👋Hi there!
-I'm CHETAN KATANKAR, a passionate coder from Pune, Maharashtra.
+I'm CHETAN KATANKAR, a passionate coder from Nagpur, Maharashtra.
 
 ##  🚀 About Me
 
